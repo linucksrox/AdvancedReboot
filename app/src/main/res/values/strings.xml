@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Advanced Reboot</string>
+    <string name="reboot_to_bootloader">Reboot to Bootloader</string>
+    <string name="reboot_to_recovery">Reboot to Recovery</string>
+    <string name="reboot_system">Reboot System</string>
+    <string name="power_off">Power Off</string>
+</resources>
